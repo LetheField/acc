@@ -6,3 +6,6 @@ Use commands to temper the parameters
 A example to run this code on Prince. We will get results of 10 different levels of coherence.
 
 **Parameters are to be adjusted more carefully!**
+
+- saveversion:
+Add some new features, and made some adjustments to parameters. But threshold still does not change with coherence!
